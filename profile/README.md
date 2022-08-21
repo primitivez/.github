@@ -1,6 +1,6 @@
 ## Olá 👋
 
-######🙋‍♀️ Seja bem-vindo ao repositório do PrimitiveZ.
+🙋‍♀️ Seja bem-vindo ao repositório do PrimitiveZ.
 > Sinta-se à vontade para contribuir com nosso projeto, basta acessar o repositório desejado e iniciar as alterações.
 
 <!--
